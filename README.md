@@ -1,4 +1,4 @@
-# HLL Lifecare - Candidate Preliminary Screening Tool
+# Candidate Preliminary Screening Tool
 
 Decision-support web app (Python + Streamlit) that screens fictional applicants
 against fixed eligibility rules. It only *suggests* a label; **no recruitment
